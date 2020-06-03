@@ -1,5 +1,5 @@
 package m2ex;
-
+//prova
 public class S03 {
     /**
      * Check if the parameter is positive, negative, or zero
@@ -130,6 +130,6 @@ public class S03 {
         	result[2] = Math.max(a, b);
         }
         return result;
-    }
+    } 
         }
 
